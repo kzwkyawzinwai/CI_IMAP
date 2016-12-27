@@ -4,7 +4,7 @@
  *
  * Config File for IMAP.
  *
- /* Location: ./system/application/config/imap_config.php */
+ * Location: ./system/application/config/imap_config.php
  * 
  * https://github.com/kzwkyawzinwai/CI_IMAP/blob/master/imap_config.php
  *
