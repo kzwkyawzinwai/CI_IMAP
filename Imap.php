@@ -6,7 +6,7 @@
  * email.
  * 
  * Used this as a resouce for building my class.
- * Location: ./system/application/libraries/Imap.php */
+ * Location: ./system/application/libraries/Imap.php
  * 
  * https://github.com/kzwkyawzinwai/CI_IMAP/blob/master/Imap.php
  *
